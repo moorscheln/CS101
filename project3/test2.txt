@@ -1,0 +1,13 @@
+addContactOrdered Tony Stark
+addContactOrdered Peter Parker
+addContactOrdered Natasha Romanoff
+addContactOrdered Wanda Maximoff
+addInfo Tony Stark alias IronMan
+addInfo Tony Stark color red-and-gold
+addInfo Peter Parker alias Spider-Man
+addInfo Peter Parker color red-and-blue
+addInfo Natasha Romanoff birthday December-3-1984
+addInfo Natasha Romanoff email black.widow@avengers.com
+addInfo Natasha Romanoff alias BlackWidow
+print
+quit

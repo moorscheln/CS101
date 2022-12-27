@@ -1,0 +1,10 @@
+cat
+pig
+snake
+cow
+bird
+pig
+Dog
+lion
+horse
+cat
